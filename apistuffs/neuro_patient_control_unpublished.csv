@@ -1,0 +1,21 @@
+accession,title,organism,n_samples,date,query
+GSE255982,Persistent epigenome anomalies in induced pluripotent stem cells from late-onset sporadic Alzheimer’s disease cases [RNA-seq],Homo sapiens,52,2024/07/30,Alzheimer's disease AND control AND RNA-seq AND human
+GSE314526,Differential Cellular Mechanisms Underlie Language and Executive Decline in Amyotrophic Lateral Sclerosis [RNA-seq],Homo sapiens,72,2026/01/01,amyotrophic lateral sclerosis AND control AND RNA-seq
+GSE288704,Whole transcriptome analysis of unmutated sporadic ALS patients’ peripheral blood reveals phenotype-specific gene expression signature,Homo sapiens,66,2026/02/04,amyotrophic lateral sclerosis AND control AND RNA-seq
+GSE310939,C9orf72 Hexanucleotide Repeat RNA Drives Transcriptional Dysregulation Through Genome-wide Hybrid G-quadruplexes [ChIRP-seq],Homo sapiens,60,2026/02/24,amyotrophic lateral sclerosis AND control AND RNA-seq
+GSE62469,Expression mRNA data from human blood samples measured using the NanoString nCounter platform,Homo sapiens,66,2015/10/17,Parkinson's disease AND healthy AND transcriptome AND blood
+GSE264549,Parkinson's disease (PD) genetic asymmetry in neuronal nuclei from paired hemisphere samples of prefrontal cortex (ATAC-Seq),Homo sapiens,69,2025/04/01,Parkinson's disease AND prefrontal cortex AND control
+GSE283747,17q21.31 locus regulates Parkinson’s disease relevant pathways through KANSL1 activity,Homo sapiens,40,2025/03/17,Parkinson's disease AND control AND RNA-seq AND human
+GSE206327,GPNMB confers risk for Parkinson’s disease through interaction with alpha-synuclein,Homo sapiens,30,2022/06/17,Parkinson's disease AND control AND RNA-seq AND human
+GSE305902,Loss of brain insulin production impairs learning and memory in female mice,Mus musculus,23,2025/12/02,Alzheimer's disease AND hippocampus AND control AND RNA-seq
+GSE82340,Transcriptomic alterations in fibroblast from parkinson's disease patients at high glucose levels,Homo sapiens,22,2021/12/30,Parkinson's disease AND control AND RNA-seq AND human
+GSE287941,Systematic characterization of LUHMES cell-based Parkinson’s disease models reveals potential novel drug targets.,Homo sapiens,22,2026/01/01,Parkinson's disease AND control AND RNA-seq AND human
+GSE318560,"Common pathogenic mechanisms in the hippocampus across neurodegenerative dementias: Alzheimer's disease, Down syndrome, and Parkinson's disease",Homo sapiens,20,2026/02/05,Parkinson's disease AND control AND RNA-seq AND human
+GSE62470,Expression mRNA data from mouse blood samples measured using the NanoString nCounter platform,Homo sapiens; Mus musculus,20,2015/10/17,Parkinson's disease AND healthy AND transcriptome AND blood
+GSE322929,Parkinson’s Disease-Associated Pink1 Loss Disrupts Ensheathing Glia And Causes Dopaminergic Neuron Synapse Loss,Drosophila melanogaster,18,2026/03/05,Parkinson's disease AND substantia nigra AND control AND RNA-seq
+GSE303404,Gene Expression Networks of Synchronized Cells Reveal Alzheimer's Disease in Autopsy-Validated Skin and Blood Samples,Homo sapiens,18,2025/07/30,Alzheimer's disease AND control AND RNA-seq AND human
+GSE106608,Next Generation Sequencing facilitated analysis of gene expression differences in the subthalamic nucleus (STN) between Parkinson's and Normal post-mortem human brains,Homo sapiens,16,2021/05/01,Parkinson's disease AND control AND RNA-seq AND human
+GSE147218,Platelet miRNA bio-signature discriminates between dementia with Lewy bodies and Alzheimer’s disease,Homo sapiens,14,2020/07/01,Parkinson's disease AND healthy AND transcriptome AND blood
+GSE238129,Unveiling the effect of the Parkinson's disease related Miro1R272Q mutation in the transcriptome of human iPSC-derived dopaminergic neurons,Homo sapiens,12,2023/08/31,Parkinson's disease AND control AND RNA-seq AND human
+GSE289958,Biomimetic Design of Manganese-Doped Carbon Dot Nanozymes with Ultrahigh SOD-Like Activity for ALS Management,Mus musculus,12,2025/10/08,amyotrophic lateral sclerosis AND control AND RNA-seq
+GSE229143,Sensory ataxia and cardiac hypertrophy caused by neurovascular oxidative stress,Mus musculus,12,2023/05/01,neurodegeneration AND patient AND control AND RNA-seq

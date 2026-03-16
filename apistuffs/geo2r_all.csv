@@ -1,0 +1,292 @@
+accession,title,organism,n_samples,date,platform,type,query
+GSE125234,Modelling G2019S-LRRK2 sporadic Parkinson’s disease in 3D midbrain organoids,Homo sapiens,4.0,2019/02/02,6244,Expression profiling by array,Parkinson's disease AND control AND GPL6244
+GSE99473,"SNP Genotype and Gene Expression data from induced Pluripotent Stem cells from Parkinson's Disease patients harboring mutations in the GBA1 gene, and from healthy control donors",Homo sapiens,18.0,2017/06/01,13829;10558;22678,Expression profiling by array; SNP genotyping by SNP array; Genome variation profiling by SNP array,Parkinson's disease AND control AND GPL10558
+GSE99142,"Gene expression data from induced Pluripotent Stem cells from Parkinson's Disease patients harboring mutations in the GBA1 gene, and from healthy control donors",Homo sapiens,5.0,2017/06/01,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE89886,"Gene expression data from induced Pluripotent Stem cells from Parkinson's Disease patients harbouring amplification of, or mutations in the SNCA gene, and from healthy control donors",Homo sapiens,32.0,2016/11/16,22678;10558;21168;13829,Expression profiling by array; SNP genotyping by SNP array,Parkinson's disease AND control AND GPL10558
+GSE89883,"Gene expression data from induced Pluripotent Stem cells from Parkinson's Disease patients harbouring amplification of, or mutations in the SNCA gene, and from healthy control donors [gene expression]",Homo sapiens,13.0,2016/11/16,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE78152,"Derivation, characterization, and neuronal differentiation of integration-free induced pluripotent stem cell lines from Parkinsons disease patients carrying SNCA, LRRK2, PARK2, and GBA mutations",Homo sapiens,8.0,2016/02/23,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE77664,Gene expression and SNP genotype data from induced Pluripotent Stem cells from Parkinson's Disease patients harbouring G2019S mutations in the LRRK2 gene,Homo sapiens,12.0,2016/02/09,13829;10558,SNP genotyping by SNP array; Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE77663,Gene expression data from induced Pluripotent Stem cells from Parkinson's Disease patients harbouring G2019S mutations in the LRRK2 gene,Homo sapiens,4.0,2016/02/09,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE54536,Involvement of endocytosis and alternative splicing in the formation of the pathological process in Parkinson's Disease,Homo sapiens,10.0,2014/01/31,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GDS5646,Early Parkinson's disease: peripheral blood,Homo sapiens,10.0,2014/01/31,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE53424,Gene expression data from human fibroblasts and induced Pluripotent Stem cells from Parkinson's Disease patients,Homo sapiens,5.0,2013/12/18,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE46798,Gene expression of A53T and corrected IPSC driven to DA neurons and exposed to paraquat and maneb,Homo sapiens,12.0,2013/12/05,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE32658,Midbrain floor plate dopamine neurons from human ESCs efficiently engraft in murine and primate models of PD,Homo sapiens,72.0,2011/11/07,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE57475,Association between alpha-synuclein blood transcripts and early Parkinson's disease,Homo sapiens,142.0,2015/06/01,6947,Expression profiling by array,Parkinson's disease AND control AND GPL6947
+GSE33434,The transcription factor nurr1 exerts concentration-dependent effects on target genes mediating distinct biological processes,Homo sapiens,9.0,2012/01/01,6947,Expression profiling by array,Parkinson's disease AND control AND GPL6947
+GSE20186,Systematic meta-analysis and replication of genome-wide expression studies of Parkinson's disease,Homo sapiens,69.0,2011/02/03,96;6947,Expression profiling by array,Parkinson's disease AND control AND GPL6947
+GSE20159,Systematic meta-analysis and replication of genome-wide expression studies of Parkinson's disease: 1,Homo sapiens,33.0,2011/01/20,6947,Expression profiling by array,Parkinson's disease AND control AND GPL6947
+GSE25580,Examination of impact of pathogenic mutations in LRRK2 upon gene expression in patient fibroblasts and HEK cells,Homo sapiens,56.0,2010/12/03,6104;6947,Expression profiling by array,Parkinson's disease AND control AND GPL6947
+GSE49036,"Evidence for immune response, axonal dysfunction and reduced endocytosis preceding Lewy body pathology in the substantia nigra in Parkinson’s disease",Homo sapiens,28.0,2015/05/12,570,Expression profiling by array,Parkinson's disease AND substantia nigra AND GPL570
+GSE20141,Expression analysis of laser-dissected SNpc neurons in Parkinson's disease,Homo sapiens,18.0,2010/02/04,570,Expression profiling by array,Parkinson's disease AND substantia nigra AND GPL570
+GSE7621,Expression data of substantia nigra from postmortem human brain of Parkinson's disease patients (PD),Homo sapiens,25.0,2007/06/14,570,Expression profiling by array,Parkinson's disease AND substantia nigra AND GPL570
+GDS2821,Parkinson's disease: substantia nigra,Homo sapiens,25.0,2007/06/14,570,Expression profiling by array,Parkinson's disease AND substantia nigra AND GPL570
+GSE7307,Human body index - transcriptional profiling,Homo sapiens,677.0,2007/04/09,570,Expression profiling by array,Parkinson's disease AND substantia nigra AND GPL570
+GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,Homo sapiens,176371.0,2003/11/07,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192718,Braak α-synuclein stages 5-6 BR56_8SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192717,Braak α-synuclein stages 5-6 BR56_7SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192716,Braak α-synuclein stages 5-6 BR56_6SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192715,Braak α-synuclein stages 5-6 BR56_5SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192714,Braak α-synuclein stages 5-6 BR56_4SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192713,Braak α-synuclein stages 5-6 BR56_3SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192712,Braak α-synuclein stages 5-6 BR56_2SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192711,Braak α-synuclein stages 5-6 BR56_1SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192710,Braak α-synuclein 3-4 BR34_7SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192709,Braak α-synuclein 3-4 BR34_6SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192708,Braak α-synuclein 3-4 BR34_5SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192707,Braak α-synuclein 3-4 BR34_4SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192706,Braak α-synuclein 3-4 BR34_3SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192705,Braak α-synuclein 3-4 BR34_2SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192704,Braak α-synuclein 3-4 BR34_1SN,Homo sapiens,0.0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503967,PD-5476-SNc,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503966,PD-5138-SNc,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503965,PD-3803p-SNc,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503964,PD-3790p-SNc,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503963,PD-3769p-SNc,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503962,PD-2525-SNc,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503961,PD-2515p-SNc,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503960,PD-1647-SNc,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503959,PD-1401-SNc,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503958,PD-1364-SNc,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184378,Substantia nigra PD rep16,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184377,Substantia nigra PD rep15,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184376,Substantia nigra PD rep14,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184375,Substantia nigra PD rep13,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184374,Substantia nigra PD rep12,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184373,Substantia nigra PD rep11,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184372,Substantia nigra PD rep10,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184371,Substantia nigra PD rep9,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184370,Substantia nigra PD rep8,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184369,Substantia nigra PD rep7,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184368,Substantia nigra PD rep6,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184367,Substantia nigra PD rep5,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184366,Substantia nigra PD rep4,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184365,Substantia nigra PD rep3,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184364,Substantia nigra PD rep2,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM184363,Substantia nigra PD rep1,Homo sapiens,0.0,2007/06/14,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM176457,Substantia Nigra Reticulata 3 Disease,Homo sapiens,0.0,2007/04/09,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM176406,Substantia Nigra Reticulata 2 Disease,Homo sapiens,0.0,2007/04/09,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM176405,Substantia Nigra Pars Compacta 3 Disease,Homo sapiens,0.0,2007/04/09,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSE30335,Genomic Signatures for Pesticide Exposure in Latino Farmworkers,Homo sapiens,40.0,2019/12/31,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE95427,Expression profiling of H4 cells expressing a Myc tagged aSyn construct,Homo sapiens,8.0,2017/07/31,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE99039,A blood-based gene signature characterizing Idiopathic Parkinson's disease,Homo sapiens,558.0,2017/05/20,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE29773,Gene Expression Data for Generation of isogenic pluripotent stem cells differing exclusively at two early onset Parkinson point mutations,Homo sapiens,12.0,2011/07/26,13695,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE24598,The human nose harbours a niche of olfactory ecto-mesenchymal stem cells displaying neurogenic and osteogenic properties,Homo sapiens,29.0,2010/10/08,96;570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE7179,Comparison of gene expression data between wild-type and DM1-affected undifferentiated hES cells.,Homo sapiens,9.0,2010/02/24,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE7178,Comparison of gene expression data between wild-type and DM1-affected Neural Precursors Cells (NPC),Homo sapiens,9.0,2010/02/24,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE7177,Comparison of gene expression data between wild-type and DM1-affected Mesodermal Precursors Cells (MPC),Homo sapiens,9.0,2010/02/24,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE20153,Expression analysis of lymphoblast cells lines in Parkinson's disease,Homo sapiens,16.0,2010/02/04,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE14711,Parkinson’s disease patient-derived induced pluripotent stem cells free of viral reprogramming factors,Homo sapiens,11.0,2009/03/06,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE9807,Expression data from RNAi SNCA treated human neuroblastoma cell line,Homo sapiens,6.0,2009/02/01,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE14429,Alteration of gene expression profile in HEK293 cells treated with proteasome inhibitor epoxomicin,Homo sapiens,12.0,2009/01/15,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSM505623,ND 06449 Pm,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505617,ND 04424 Pm,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505607,ND 04158 Pf,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505606,ND 03432 Pf,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505314,ND 02852 Pm,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505313,ND 02579 Pm,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505312,ND 01737 Pf,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505308,ND 01173 Pf,Homo sapiens,0.0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM367258,iPS PDB 2lox-17,Homo sapiens,0.0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367245,iPS PDB 2lox-21,Homo sapiens,0.0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367244,iPS PDB 2lox-22,Homo sapiens,0.0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367243,iPS PDB 2lox-5,Homo sapiens,0.0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367242,iPS PDB 1lox-21Puro-26,Homo sapiens,0.0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367241,iPS PDB 1lox-21Puro-20,Homo sapiens,0.0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367240,iPS PDB 1lox-17Puro-10,Homo sapiens,0.0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367219,iPS PDB 1lox-17Puro-5,Homo sapiens,0.0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,Homo sapiens,105827.0,2010/06/17,10558,,Parkinson's disease AND blood AND GPL10558
+GSM1318551,RNA pool from PD patients 1-5,Homo sapiens,0.0,2014/01/31,10558,,Parkinson's disease AND blood AND GPL10558
+GSM1318550,PD patient 4,Homo sapiens,0.0,2014/01/31,10558,,Parkinson's disease AND blood AND GPL10558
+GSM1318549,PD patient 3,Homo sapiens,0.0,2014/01/31,10558,,Parkinson's disease AND blood AND GPL10558
+GSM1318548,PD patient 2,Homo sapiens,0.0,2014/01/31,10558,,Parkinson's disease AND blood AND GPL10558
+GSM1318547,PD patient 1,Homo sapiens,0.0,2014/01/31,10558,,Parkinson's disease AND blood AND GPL10558
+GSE99253,Human iPSC-derived dopaminergic neurons function in primate Parkinson’s disease models,Homo sapiens,14.0,2017/08/21,6244,Expression profiling by array,Parkinson's disease AND brain AND GPL6244
+GSE51214,Isolation of human iPSC-derived dopaminergic progenitors by cell sorting,Homo sapiens,20.0,2014/03/07,6244,Expression profiling by array,Parkinson's disease AND brain AND GPL6244
+GSE29774,Generation of isogenic pluripotent stem cells differing exclusively at two early onset Parkinson point mutations,Homo sapiens,18.0,2011/07/26,6801;13695,Genome variation profiling by SNP array; Expression profiling by array,SNCA AND Parkinson AND GPL570
+GSE54765,"1,25-dihydroxyvitamin D3 triggers an anti-inflammatory response in brain pericyte",Homo sapiens,4.0,2017/01/01,570,Expression profiling by array,Alzheimer's disease AND control AND GPL570
+GSE48350,Alzheimer's Disease Dataset,Homo sapiens,253.0,2014/04/21,570,Expression profiling by array,Alzheimer's disease AND control AND GPL570
+GSE30643,Expression data from parietal cortex of G114V genetic Creutzfeldt-Jakob disease patient,Homo sapiens,2.0,2013/07/01,570,Expression profiling by array,Alzheimer's disease AND control AND GPL570
+GDS4141,Alzheimer's disease: induced pluripotent stem cells with Presenilin 2 mutation (N141),Homo sapiens,4.0,2011/09/10,570,Expression profiling by array,Alzheimer's disease AND control AND GPL570
+GSE28146,Microarray analyses of laser-captured hippocampus reveal distinct gray and white matter signatures associated with incipient Alzheimer’s disease,Homo sapiens,30.0,2011/08/01,570,Expression profiling by array,Alzheimer's disease AND control AND GPL570
+GDS4136,Various stages of Alzheimer's disease: laser-captured hippocampal CA1 gray matter,Homo sapiens,30.0,2011/08/01,570,Expression profiling by array,Alzheimer's disease AND control AND GPL570
+GSE16759,mRNA and miRNA expression in parietal lobe cortex in Alzheimer's disease,Homo sapiens,16.0,2010/01/31,570;8757,Expression profiling by array; Non-coding RNA profiling by array,Alzheimer's disease AND control AND GPL570
+GSE5281,Alzheimer's disease and the normal aged brain (steph-affy-human-433773),Homo sapiens,161.0,2006/07/10,570,Expression profiling by array,Alzheimer's disease AND control AND GPL570
+GSE175735,The effect of homocysteine on Human Aortic Endothelial Cells [RNA],Homo sapiens,6.0,2021/05/29,6244,Expression profiling by array,Alzheimer's disease AND control AND GPL6244
+GSE80245,Expression data from the neuron model of Alzheimer's disease (AD) with or without treatment of recombinant human mitochondrial transcriptional factor A (rhTFAM) protein,Homo sapiens,6.0,2016/12/01,6244,Expression profiling by array,Alzheimer's disease AND control AND GPL6244
+GSE31163,Human induced pluripotent stem cells derived from a sporadic Alzheimer's disease patient,Homo sapiens,8.0,2015/12/31,6244,Expression profiling by array,Alzheimer's disease AND control AND GPL6244
+GSE58959,NLRP3 inflammasome activation-responsive genes in a human monocyte cell line THP-1,Homo sapiens,3.0,2014/07/01,6244,Expression profiling by array,Alzheimer's disease AND control AND GPL6244
+GSE36980,Expression data from post mortem Alzheimer's disease brains,Homo sapiens,80.0,2013/04/17,6244,Expression profiling by array,Alzheimer's disease AND control AND GPL6244
+GDS4758,Postmortem Alzheimer's disease brains: Hisayama study,Homo sapiens,79.0,2013/04/17,6244,Expression profiling by array,Alzheimer's disease AND control AND GPL6244
+GSE43326,"Gene expression data from iPSC-derived neural cells, comparison between APP wild and E693delta mutation",Homo sapiens,6.0,2013/03/22,6244,Expression profiling by array,Alzheimer's disease AND control AND GPL6244
+GSE33503,Gene expression profile of DAP12 knockdown THP-1 cells following exposure to phorbol 12-myristate 13-acetate,Homo sapiens,4.0,2011/11/17,6244,Expression profiling by array,Alzheimer's disease AND control AND GPL6244
+GSE33500,"Gene expression profile of THP-1 monocytes following knockdown of DAP12, a causative gene for Nasu-Hakola disease",Homo sapiens,3.0,2011/11/17,6244,Expression profiling by array,Alzheimer's disease AND control AND GPL6244
+GDS4137,Nasu-Hakola disease model: DAP12 knockdown THP-1 clones,Homo sapiens,4.0,2011/11/17,6244,Expression profiling by array,Alzheimer's disease AND control AND GPL6244
+GSE25496,Transcriptome analysis of the Nasu-Hakola disease brain,Homo sapiens,2.0,2010/11/20,6244,Expression profiling by array,Alzheimer's disease AND control AND GPL6244
+GPL6244,[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],Homo sapiens,38703.0,2007/12/05,6244,,Alzheimer's disease AND control AND GPL6244
+GSE139384,"Synaptopathy in Kii ALS/PDC, a disease concept based on transcriptome analyses of human brains",Homo sapiens,33.0,2019/10/26,10558,Expression profiling by array,Alzheimer's disease AND control AND GPL10558
+GSE118553,Transcriptomic analysis of probable asymptomatic and symptomatic Alzheimer Brains,Homo sapiens,401.0,2019/07/22,10558,Expression profiling by array,Alzheimer's disease AND control AND GPL10558
+GSE63063,"Alzheimer, Mild Cognitive impairment and control samples from AddneuroMed Cohort",Homo sapiens,717.0,2015/08/05,10558;6947,Expression profiling by array,Alzheimer's disease AND control AND GPL10558
+GSE63061,"Alzheimer, Mild Cognitive impairment and control samples from AddneuroMed Cohort (batch 2)",Homo sapiens,388.0,2015/08/05,10558,Expression profiling by array,Alzheimer's disease AND control AND GPL10558
+GSE58364,Human leukocytes from 6 volunteers before and 2h after pectin capsules consumption (IV),Homo sapiens,12.0,2014/06/10,10558,Expression profiling by array,Alzheimer's disease AND control AND GPL10558
+GSE58349,Human leukocytes from 6 volunteers before and 2h after pectin capsules consumption (II),Homo sapiens,12.0,2014/06/10,10558,Expression profiling by array,Alzheimer's disease AND control AND GPL10558
+GSE58348,Human leukocytes from 6 volunteers before and 2h after pectin capsules consumption (I),Homo sapiens,12.0,2014/06/10,10558,Expression profiling by array,Alzheimer's disease AND control AND GPL10558
+GSE34879,Probing sporadic and familial Alzheimer?s disease using induced pluripotent stem cells.,Homo sapiens,38.0,2012/01/06,10558,Expression profiling by array,Alzheimer's disease AND control AND GPL10558
+GSM856938,iPSC_APPdp2.3__683.1917.1.1,Homo sapiens,0.0,2012/01/06,10558,,Alzheimer's disease AND control AND GPL10558
+GSM856919,diff.neuron.APPdp2.3_683.1915.2.1,Homo sapiens,0.0,2012/01/06,10558,,Alzheimer's disease AND control AND GPL10558
+GSE110298,Hippocampal gene expression patterns linked to late-life physical activity opposes age and AD-related transcriptional decline,Homo sapiens,34.0,2018/12/31,570,Expression profiling by array,Alzheimer's disease AND hippocampus AND GPL570
+GSE84422,Molecular Signatures Underlying Selective Regional Vulnerability to Alzheimer's Disease,Homo sapiens,2004.0,2016/08/19,570;96;97,Expression profiling by array,Alzheimer's disease AND hippocampus AND GPL570
+GSE17312,BI Human Reference Epigenome Mapping Project,Homo sapiens,633.0,2009/08/05,11154;9115;570;10999,Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by array,Alzheimer's disease AND hippocampus AND GPL570
+GSE9770,Non-demented individuals with intermediate Alzheimer's neuropathologies - neuronal expression (6 regions),Homo sapiens,34.0,2007/12/05,570,Expression profiling by array,Alzheimer's disease AND hippocampus AND GPL570
+GSM242054,non-demented individual with intermediate Alzheimer's pathologies - hippocampus 6,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM242053,non-demented individual with intermediate Alzheimer's pathologies - hippocampus 5,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM242052,non-demented individual with intermediate Alzheimer's pathologies - hippocampus 4,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM242051,non-demented individual with intermediate Alzheimer's pathologies - hippocampus 3,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM242050,non-demented individual with intermediate Alzheimer's pathologies - hippocampus 2,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM242049,non-demented individual with intermediate Alzheimer's pathologies - hippocampus 1,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM238808,HIP_affected_10,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM238807,HIP_affected_9,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM238806,HIP_affected_8,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM238805,HIP_affected_7,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM238804,HIP_affected_6,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM238803,HIP_affected_5,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM238802,HIP_affected_4,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM238801,HIP_affected_3,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM238800,HIP_affected_2,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSM238799,HIP_affected_1,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND hippocampus AND GPL570
+GSE318045,Whole transcriptome microarray gene expression profiling of cerebral cortex specimens from glioblastoma patients (Group1),Homo sapiens,10.0,2026/02/16,570,Expression profiling by array,Alzheimer's disease AND cortex AND GPL570
+GSE66333,Neuronal DNA damage response-associated dysregulation of signalling pathways and cholesterol metabolism at th earliest stages of Alzheimer-type pathology,Homo sapiens,8.0,2015/06/02,570,Expression profiling by array,Alzheimer's disease AND cortex AND GPL570
+GSE29652,Microarray analysis of the astrocyte transcriptome in the ageing brain: relationship to Alzheimer's pathology and ApoE genotype,Homo sapiens,18.0,2011/06/01,570,Expression profiling by array,Alzheimer's disease AND cortex AND GPL570
+GDS4135,Postmortem temporal cortex from Medical Research Council Cognitive Function and Ageing Study (MRC-CFAS) cohort: astrocytes,Homo sapiens,18.0,2011/06/01,570,Expression profiling by array,Alzheimer's disease AND cortex AND GPL570
+GSE21779,"Gene expression data from temporal cortex of young adult, old and AD-like Microcebus murinus",Microcebus murinus; Homo sapiens,18.0,2011/04/01,570,Expression profiling by array,Alzheimer's disease AND cortex AND GPL570
+GDS4128,Model of cerebral aging and Alzheimer's disease: temporal cortex,Homo sapiens; Microcebus murinus,18.0,2011/04/01,570,Expression profiling by array,Alzheimer's disease AND cortex AND GPL570
+GSE4757,Alzheimer’s disease: neurofibrillary tangles (Rogers-3U24NS043571-01S1),Homo sapiens,20.0,2006/05/02,570,Expression profiling by array,Alzheimer's disease AND cortex AND GPL570
+GDS2795,Alzheimer's disease: neurofibrillary tangles,Homo sapiens,20.0,2006/05/02,570,Expression profiling by array,Alzheimer's disease AND cortex AND GPL570
+GSM242089,non-demented individual with intermediate Alzheimer's pathologies - primary visual cortex 5,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242088,non-demented individual with intermediate Alzheimer's pathologies - primary visual cortex 4,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242087,non-demented individual with intermediate Alzheimer's pathologies - primary visual cortex 3,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242086,non-demented individual with intermediate Alzheimer's pathologies - primary visual cortex 2,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242085,non-demented individual with intermediate Alzheimer's pathologies - primary visual cortex 1,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242065,non-demented individual with intermediate Alzheimer's pathologies - posterior cingulate cortex 5,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242064,non-demented individual with intermediate Alzheimer's pathologies - posterior cingulate cortex 4,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242063,non-demented individual with intermediate Alzheimer's pathologies - posterior cingulate cortex 3,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242062,non-demented individual with intermediate Alzheimer's pathologies - posterior cingulate cortex 2,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242061,non-demented individual with intermediate Alzheimer's pathologies - posterior cingulate cortex 1,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242048,non-demented individual with intermediate Alzheimer's pathologies - entorhinal cortex 6,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242047,non-demented individual with intermediate Alzheimer's pathologies - entorhinal cortex 5,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242046,non-demented individual with intermediate Alzheimer's pathologies - entorhinal cortex 4,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242045,non-demented individual with intermediate Alzheimer's pathologies - entorhinal cortex 3,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242044,non-demented individual with intermediate Alzheimer's pathologies - entorhinal cortex 2,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM242043,non-demented individual with intermediate Alzheimer's pathologies - entorhinal cortex 1,Homo sapiens,0.0,2007/12/05,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238963,VCX_affected_19,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238955,VCX_affected_18,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238953,VCX_affected_17,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238952,VCX_affected_16,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238951,VCX_affected_15,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238949,VCX_affected_14,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238948,VCX_affected_13,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238947,VCX_affected_12,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238946,VCX_affected_11,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238945,VCX_affected_10,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238944,VCX_affected_9,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238943,VCX_affected_8,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238942,VCX_affected_7,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238941,VCX_affected_6,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238877,VCX_affected_5,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238875,VCX_affected_4,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238874,VCX_affected_3,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238873,VCX_affected_2,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSM238872,VCX_affected_1,Homo sapiens,0.0,2007/10/23,570,,Alzheimer's disease AND cortex AND GPL570
+GSE97311,Induced Mesenchymal stromal cells derived from iPS cells from aged individuals acquire a rejuvenation signature and a MSC-specific secretome,Homo sapiens,18.0,2019/03/13,10558,Expression profiling by array,Alzheimer's disease AND blood AND GPL10558
+GSM2561516,fetal MSC 2,Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561515,fetal MSC 1,Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561514,aged MSC (70y),Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561513,aged MSC (60y),Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561512,H9_a,Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561511,H1_b,Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561510,H1_a,Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561509,iMSC (hESC H1),Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561508,"iMSC (fetal, line 1, viral)",Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561507,"iPSC (MSC, fetal, line 1, episomal 2)",Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561506,"iPSC (MSC, fetal, line 1, episomal 1)",Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561505,"iPSC (MSC, fetal, line 1, viral)",Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561504,fetal MSC 3,Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561503,"iPSC (MSC, 62y, episomal)",Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561502,aged MSC (62y),Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561501,"iMSC (74y, viral)",Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561500,"iPSC (MSC, 74y, viral)",Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSM2561499,aged MSC (74y),Homo sapiens,0.0,2019/03/13,10558,,Alzheimer's disease AND blood AND GPL10558
+GSE68608,C9ORF72 GGGGCC expanded repeats produce splicing dysregulation which correlates with disease severity in amyotrophic lateral sclerosis,Homo sapiens,80.0,2015/05/08,20149;570,Expression profiling by array,amyotrophic lateral sclerosis AND control AND GPL570
+GSE68605,C9ORF72 GGGGCC expanded repeats produce splicing dysregulation which correlates with disease severity in amyotrophic lateral sclerosis [HG-U133_Plus_2],Homo sapiens,11.0,2015/05/08,570,Expression profiling by array,amyotrophic lateral sclerosis AND control AND GPL570
+GSE56808,"Gene expression signatures in motor neuron disease fibroblasts reveal dysregulation of metabolism, hypoxia-response and RNA processing functions",Homo sapiens,18.0,2014/04/16,570,Expression profiling by array,amyotrophic lateral sclerosis AND control AND GPL570
+GSE40438,Gene expression profiling of resistant and vulnerable motor neuron subtypes in amyotrophic lateral sclerosis,Homo sapiens,8.0,2013/03/01,570,Expression profiling by array,amyotrophic lateral sclerosis AND control AND GPL570
+GDS4130,Endoplasmic reticulum stress effect on lymphoblastoid cells of monozygotic twins,Homo sapiens,104.0,2010/03/30,570,Expression profiling by array,amyotrophic lateral sclerosis AND control AND GPL570
+GDS4129,Endoplasmic reticulum stress effect on lymphoblastoid cells of unrelated individuals,Homo sapiens,120.0,2010/03/30,570,Expression profiling by array,amyotrophic lateral sclerosis AND control AND GPL570
+GSE19332,Mutations in CHMP2B in lower motor neuron predominant amyotrophic lateral sclerosis (ALS),Homo sapiens,10.0,2010/03/01,570,Expression profiling by array,amyotrophic lateral sclerosis AND control AND GPL570
+GDS3730,Transactive response DNA-binding protein (TDP-43) knockdown effect on embryonic kidney cells,Homo sapiens,8.0,2009/10/20,570,Expression profiling by array,amyotrophic lateral sclerosis AND control AND GPL570
+GSE143680,Integrated Genome and Transcriptome Analyses Reveal the Mechanism of Genome Instability in Ataxia with Oculomotor Apraxia 2.,Homo sapiens,24.0,2021/04/29,6244,Expression profiling by array,amyotrophic lateral sclerosis AND control AND GPL6244
+GSE26276,Evaluation of differential gene expression in patients with amyotrophic lateral sclerosis (ALS),Homo sapiens,9.0,2011/02/26,6244,Expression profiling by array,amyotrophic lateral sclerosis AND control AND GPL6244
+GSE106382,"Expression data of iPSC-derived motor neurons from healthy donor, FALS, SALS, and drug-treated them",Homo sapiens,24.0,2018/06/30,570,Expression profiling by array,ALS AND motor neuron AND GPL570
+GSE20589,Microarray analysis identifies the gene signature of surviving motor neurons in human SOD1-related motor neuron disease,Homo sapiens,10.0,2011/01/01,570,Expression profiling by array,ALS AND motor neuron AND GPL570
+GSM2836957,SALS iPSC (SALS30)-derived MN with drug-treatment,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836956,SALS iPSC (SALS17)-derived MN with drug-treatment,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836955,SALS iPSC (SALS14)-derived MN with drug-treatment,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836954,SALS iPSC (SALS12)-derived MN with drug-treatment,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836953,SOD1-ALS iPSC (2SOD1-4)-derived MN with drug-treatment,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836952,SOD1-ALS iPSC (1SOD1-4)-derived MN with drug-treatment,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836951,TARDBP-ALS iPSC (A21428)-derived MN with drug-treatment,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836950,TARDBP-ALS iPSC (A21412)-derived MN with drug-treatment,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836949,FUS-ALS iPSC (FALS2e23)-derived MN with drug-treatment,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836948,FUS-ALS iPSC (FALS2e3)-derived MN with drug-treatment,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836947,SALS iPSC (SALS30)-derived MN,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836946,SALS iPSC (SALS17)-derived MN,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836945,SALS iPSC (SALS14)-derived MN,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836944,SALS iPSC (SALS12)-derived MN,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836943,SOD1-ALS iPSC (2SOD1-4)-derived MN,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836942,SOD1-ALS iPSC (1SOD1-4)-derived MN,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836941,TARDBP-ALS iPSC (A21428)-derived MN,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836940,TARDBP-ALS iPSC (A21412)-derived MN,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836939,FUS-ALS iPSC (FALS2e23)-derived MN,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM2836938,FUS-ALS iPSC (FALS2e3)-derived MN,Homo sapiens,0.0,2018/06/30,570,,ALS AND motor neuron AND GPL570
+GSM1676860,ALS with C9ORF72 mutation 08,Homo sapiens,0.0,2015/05/08,570,,ALS AND motor neuron AND GPL570
+GSM1676859,ALS with C9ORF72 mutation 07,Homo sapiens,0.0,2015/05/08,570,,ALS AND motor neuron AND GPL570
+GSM1676858,ALS with C9ORF72 mutation 06,Homo sapiens,0.0,2015/05/08,570,,ALS AND motor neuron AND GPL570
+GSM1676857,ALS with C9ORF72 mutation 05,Homo sapiens,0.0,2015/05/08,570,,ALS AND motor neuron AND GPL570
+GSM1676856,ALS with C9ORF72 mutation 04,Homo sapiens,0.0,2015/05/08,570,,ALS AND motor neuron AND GPL570
+GSM1676855,ALS with C9ORF72 mutation 03,Homo sapiens,0.0,2015/05/08,570,,ALS AND motor neuron AND GPL570
+GSM1676854,ALS with C9ORF72 mutation 02,Homo sapiens,0.0,2015/05/08,570,,ALS AND motor neuron AND GPL570
+GSM1676853,ALS with C9ORF72 mutation 01,Homo sapiens,0.0,2015/05/08,570,,ALS AND motor neuron AND GPL570
+GSE135589,2-year Longitudinal Analyses of Peripheral Blood RNA in Huntington's Disease gene-positive and control subjects,Homo sapiens,178.0,2020/09/23,570,Expression profiling by array,Huntington's disease AND control AND GPL570
+GSE59051,Expression data from of HD-iPSC and CON-iPSC neuron derivatives,Homo sapiens,5.0,2015/09/02,570,Expression profiling by array,Huntington's disease AND control AND GPL570
+GSE34721,Continuous analysis captures cellular states that reflect dominant effects of the HTT CAG repeat in human lymphoblastoid cell lines.,Homo sapiens,227.0,2013/05/03,570,Expression profiling by array,Huntington's disease AND control AND GPL570
+GSE8762,Lymphocyte gene expression data from moderate stage HD patients and controls,Homo sapiens,22.0,2007/08/15,570,Expression profiling by array,Huntington's disease AND control AND GPL570
+GDS2887,Moderate stage Huntington's disease lymphocytes,Homo sapiens,22.0,2007/08/15,570,Expression profiling by array,Huntington's disease AND control AND GPL570
+GSE83670,Gene expression profiling of the astrocyte transcriptome in multiple sclerosis normal appearing white matter reveals a neuroprotective role,Homo sapiens,7.0,2016/09/19,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GSE68527,Gene expression studies of a human monocyte cell line identify dissimilarities between Copaxone and Probioglat,Homo sapiens,178.0,2015/05/22,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GSE59085,The Role of Interleukin-11 in the Development of the Autoimmune Response in Multiple Sclerosis,Homo sapiens,22.0,2015/05/15,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GSE37750,Gene expression data: Plasmacytoid dendritic cells (pDCs) of healthy donors and MS patientes before and after IFN beta treatment,Homo sapiens,26.0,2015/05/02,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GSE53716,IFNb-1a in-vivo treatment induces the expression and signaling of IFNAR1 and inhibits Th17 responses in PBMCs derived from CIS patients,Homo sapiens,12.0,2014/05/15,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GDS4994,IFNβ-1a in vivo treatment effect on CIS multiple sclerosis patients: peripheral blood mononuclear cells,Homo sapiens,12.0,2014/05/15,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GSE43592,MicroRNA regulate immune pathways in T-cells in multiple sclerosis (MS),Homo sapiens; synthetic construct,40.0,2013/08/02,570;14613,Expression profiling by array; Non-coding RNA profiling by array,multiple sclerosis AND control AND GPL570
+GSE43591,MicroRNA regulate immune pathways in T-cells in multiple sclerosis (MS) mRNA,Homo sapiens,20.0,2013/08/02,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GSE38010,Janus-Like Opposing Roles of CD47 in Autoimmune Brain Inflammation in Human and Mice,Homo sapiens,7.0,2012/06/24,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GDS4218,Multiple sclerosis: brain lesions,Homo sapiens,7.0,2012/06/24,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GSE21942,Expression data from peripheral blood mononuclear cells in multiple sclerosis patients and controls,Homo sapiens,29.0,2011/07/01,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GDS3920,Multiple sclerosis: peripheral blood mononuclear cells,Homo sapiens,29.0,2011/07/01,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GSE26484,"Sema4A, a novel serum marker of multiple sclerosis, implicates Th17 pathology and efficacy of interferon-β.",Homo sapiens,10.0,2011/06/01,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GDS4152,Multiple sclerosis patients with high serum semaphorin4A levels: peripheral blood cells,Homo sapiens,10.0,2011/06/01,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GSE13732,CIS (multiple sclerosis) (case-control) (time-series),Homo sapiens,113.0,2008/11/26,570,Expression profiling by array,multiple sclerosis AND control AND GPL570
+GSM931818,Chronic plaque 2 (CP2),Homo sapiens,0.0,2012/06/24,570,,multiple sclerosis AND control AND GPL570
+GSM931817,Chronic plaque 1 (CP1),Homo sapiens,0.0,2012/06/24,570,,multiple sclerosis AND control AND GPL570
+GSM931816,Chronic active plaque 2 (CAP2),Homo sapiens,0.0,2012/06/24,570,,multiple sclerosis AND control AND GPL570
+GSM931815,Chronic active plaque 1 (CAP1),Homo sapiens,0.0,2012/06/24,570,,multiple sclerosis AND control AND GPL570
+GSM931814,Active plaque (AP),Homo sapiens,0.0,2012/06/24,570,,multiple sclerosis AND control AND GPL570
+GSE136411,Design of an unbiased machine learning workflow to predict Multiple Sclerosis staging from blood transcriptome,Homo sapiens,336.0,2020/09/01,6104;10558,Expression profiling by array,multiple sclerosis AND control AND GPL10558
+GSE131282,"Multiple sclerosis cortical normal-appearing grey matter, grey matter lesions, and control grey matter",Homo sapiens,184.0,2020/01/13,10558,Expression profiling by array,multiple sclerosis AND control AND GPL10558
+GSE131281,Multiple sclerosis cortical normal-appearing grey matter and control grey matter,Homo sapiens,106.0,2020/01/13,10558,Expression profiling by array,multiple sclerosis AND control AND GPL10558
+GSE131279,Multiple sclerosis cortical normal-appearing grey matter and grey matter lesions,Homo sapiens,78.0,2020/01/13,10558,Expression profiling by array,multiple sclerosis AND control AND GPL10558
+GSE107145,Intrathecal delivery of human ESC-derived mesenchymal stem cell spheres promotes recovery of a primate EAE model,Homo sapiens,3.0,2018/08/30,10558,Expression profiling by array,multiple sclerosis AND control AND GPL10558
+GSE81910,Remyelination is correlated with regulatory T cell induction following human EBNPC transplantation,Homo sapiens,17.0,2017/02/10,10558,Expression profiling by array,multiple sclerosis AND control AND GPL10558
+GSE71634,Gene expression profiling of healthy controls upon Interferon-beta stimulation,Homo sapiens,40.0,2015/08/03,10558,Expression profiling by array,multiple sclerosis AND control AND GPL10558
+GSE17048,Multiple Sclerosis Blood Cell mRNA Transcriptome,Homo sapiens,144.0,2010/04/02,6947,Expression profiling by array,multiple sclerosis AND blood AND GPL6947
+GSE4773,Greene-5P01NS017771-220003,Homo sapiens,21.0,2006/06/06,570,Expression profiling by array,neurodegeneration AND patient AND control AND GPL570

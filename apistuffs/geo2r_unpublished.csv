@@ -1,0 +1,4 @@
+accession,title,organism,n_samples,date,platform,type,query
+GSE110298,Hippocampal gene expression patterns linked to late-life physical activity opposes age and AD-related transcriptional decline,Homo sapiens,34.0,2018/12/31,570,Expression profiling by array,Alzheimer's disease AND hippocampus AND GPL570
+GSE4773,Greene-5P01NS017771-220003,Homo sapiens,21.0,2006/06/06,570,Expression profiling by array,neurodegeneration AND patient AND control AND GPL570
+GSE318045,Whole transcriptome microarray gene expression profiling of cerebral cortex specimens from glioblastoma patients (Group1),Homo sapiens,10.0,2026/02/16,570,Expression profiling by array,Alzheimer's disease AND cortex AND GPL570
