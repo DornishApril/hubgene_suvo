@@ -1,0 +1,5 @@
+Run,BioSample,Bases,Batch,Bytes,Cell_Line,Cell_Type,Experiment,Genotype,Library_Name,Create_Date,Sample_Name,Source_Name,Tissue
+SRR36692471,SAMN54465285,6.80 G,1,1.51 Gb,H1112 clone 1,midbrain dopaminergic neurons,SRX31700250,GBA1 +/+,GSM9436040,2026-01-06 12:28:00Z,GSM9436040,iPSC-neurons,iPSC-neurons
+SRR36692472,SAMN54465286,9.29 G,3,2.01 Gb,H1112 clone 1,astrocytes,SRX31700249,GBA1 +/+,GSM9436039,2026-01-06 12:29:00Z,GSM9436039,iPSC-astrocytes,iPSC-astrocytes
+SRR36692473,SAMN54465287,9.23 G,2,2.05 Gb,H1112 clone 1,astrocytes,SRX31700248,GBA1 +/+,GSM9436038,2026-01-06 12:30:00Z,GSM9436038,iPSC-astrocytes,iPSC-astrocytes
+SRR36692474,SAMN54465288,8.41 G,1,1.79 Gb,H1112 clone 1,astrocytes,SRX31700247,GBA1 +/+,GSM9436037,2026-01-06 12:29:00Z,GSM9436037,iPSC-astrocytes,iPSC-astrocytes
