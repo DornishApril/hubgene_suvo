@@ -1,0 +1,2 @@
+accession,title,organism,n_samples,date,platform,type,query
+GSE4773,Greene-5P01NS017771-220003,Homo sapiens,21,2006/06/06,570,Expression profiling by array,Parkinson's disease AND control AND GPL570

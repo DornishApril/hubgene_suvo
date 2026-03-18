@@ -1,0 +1,114 @@
+accession,title,organism,n_samples,date,platform,type,query
+GSE30335,Genomic Signatures for Pesticide Exposure in Latino Farmworkers,Homo sapiens,40,2019/12/31,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE103099,Helper-dependent CAV-2 vector-mediated LRRK2G2019S expression in the M. murinus brain induces Parkinson's disease-like histological lesions and motor symptoms,Homo sapiens; Microcebus murinus,59,2018/03/01,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE102709,Gene expression changes in the midbrain of Microcebus murinus induced by Canine adenovirus type 2 (CAV-2),Microcebus murinus; Homo sapiens,19,2018/03/01,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE102708,Gene expression changes in the frontal cortex of Microcebus murinus induced by Canine adenovirus type 2 (CAV-2),Homo sapiens; Microcebus murinus,20,2018/03/01,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE102640,Gene expression changes in the striatum of Microcebus murinus induced by Canine adenovirus type 2 (CAV-2),Homo sapiens; Microcebus murinus,20,2018/03/01,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE95427,Expression profiling of H4 cells expressing a Myc tagged aSyn construct,Homo sapiens,8,2017/07/31,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE99039,A blood-based gene signature characterizing Idiopathic Parkinson's disease,Homo sapiens,558,2017/05/20,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE49036,"Evidence for immune response, axonal dysfunction and reduced endocytosis preceding Lewy body pathology in the substantia nigra in Parkinson’s disease",Homo sapiens,28,2015/05/12,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE30643,Expression data from parietal cortex of G114V genetic Creutzfeldt-Jakob disease patient,Homo sapiens,2,2013/07/01,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GDS4141,Alzheimer's disease: induced pluripotent stem cells with Presenilin 2 mutation (N141),Homo sapiens,4,2011/09/10,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE29773,Gene Expression Data for Generation of isogenic pluripotent stem cells differing exclusively at two early onset Parkinson point mutations,Homo sapiens,12,2011/07/26,13695,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE24598,The human nose harbours a niche of olfactory ecto-mesenchymal stem cells displaying neurogenic and osteogenic properties,Homo sapiens,29,2010/10/08,96;570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE20153,Expression analysis of lymphoblast cells lines in Parkinson's disease,Homo sapiens,16,2010/02/04,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE20146,Expression analysis of dissected GPi in Parkinson's disease,Homo sapiens,20,2010/02/04,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE20141,Expression analysis of laser-dissected SNpc neurons in Parkinson's disease,Homo sapiens,18,2010/02/04,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE9807,Expression data from RNAi SNCA treated human neuroblastoma cell line,Homo sapiens,6,2009/02/01,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE14429,Alteration of gene expression profile in HEK293 cells treated with proteasome inhibitor epoxomicin,Homo sapiens,12,2009/01/15,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE7621,Expression data of substantia nigra from postmortem human brain of Parkinson's disease patients (PD),Homo sapiens,25,2007/06/14,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GDS2821,Parkinson's disease: substantia nigra,Homo sapiens,25,2007/06/14,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE7307,Human body index - transcriptional profiling,Homo sapiens,677,2007/04/09,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GSE4773,Greene-5P01NS017771-220003,Homo sapiens,21,2006/06/06,570,Expression profiling by array,Parkinson's disease AND control AND GPL570
+GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,Homo sapiens,176371,2003/11/07,570,,Parkinson's disease AND control AND GPL570
+GSM184378,Substantia nigra PD rep16,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184377,Substantia nigra PD rep15,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184376,Substantia nigra PD rep14,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184375,Substantia nigra PD rep13,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184374,Substantia nigra PD rep12,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184373,Substantia nigra PD rep11,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184372,Substantia nigra PD rep10,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184371,Substantia nigra PD rep9,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184370,Substantia nigra PD rep8,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184369,Substantia nigra PD rep7,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184368,Substantia nigra PD rep6,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184367,Substantia nigra PD rep5,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184366,Substantia nigra PD rep4,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184365,Substantia nigra PD rep3,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184364,Substantia nigra PD rep2,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSM184363,Substantia nigra PD rep1,Homo sapiens,0,2007/06/14,570,,Parkinson's disease AND control AND GPL570
+GSE125234,Modelling G2019S-LRRK2 sporadic Parkinson’s disease in 3D midbrain organoids,Homo sapiens,4,2019/02/02,6244,Expression profiling by array,Parkinson's disease AND control AND GPL6244
+GSE99473,"SNP Genotype and Gene Expression data from induced Pluripotent Stem cells from Parkinson's Disease patients harboring mutations in the GBA1 gene, and from healthy control donors",Homo sapiens,18,2017/06/01,13829;10558;22678,Expression profiling by array; SNP genotyping by SNP array; Genome variation profiling by SNP array,Parkinson's disease AND control AND GPL10558
+GSE99142,"Gene expression data from induced Pluripotent Stem cells from Parkinson's Disease patients harboring mutations in the GBA1 gene, and from healthy control donors",Homo sapiens,5,2017/06/01,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE89886,"Gene expression data from induced Pluripotent Stem cells from Parkinson's Disease patients harbouring amplification of, or mutations in the SNCA gene, and from healthy control donors",Homo sapiens,32,2016/11/16,22678;10558;21168;13829,Expression profiling by array; SNP genotyping by SNP array,Parkinson's disease AND control AND GPL10558
+GSE89883,"Gene expression data from induced Pluripotent Stem cells from Parkinson's Disease patients harbouring amplification of, or mutations in the SNCA gene, and from healthy control donors [gene expression]",Homo sapiens,13,2016/11/16,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE78152,"Derivation, characterization, and neuronal differentiation of integration-free induced pluripotent stem cell lines from Parkinsons disease patients carrying SNCA, LRRK2, PARK2, and GBA mutations",Homo sapiens,8,2016/02/23,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE77664,Gene expression and SNP genotype data from induced Pluripotent Stem cells from Parkinson's Disease patients harbouring G2019S mutations in the LRRK2 gene,Homo sapiens,12,2016/02/09,13829;10558,SNP genotyping by SNP array; Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE77663,Gene expression data from induced Pluripotent Stem cells from Parkinson's Disease patients harbouring G2019S mutations in the LRRK2 gene,Homo sapiens,4,2016/02/09,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE54536,Involvement of endocytosis and alternative splicing in the formation of the pathological process in Parkinson's Disease,Homo sapiens,10,2014/01/31,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GDS5646,Early Parkinson's disease: peripheral blood,Homo sapiens,10,2014/01/31,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE53424,Gene expression data from human fibroblasts and induced Pluripotent Stem cells from Parkinson's Disease patients,Homo sapiens,5,2013/12/18,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE46798,Gene expression of A53T and corrected IPSC driven to DA neurons and exposed to paraquat and maneb,Homo sapiens,12,2013/12/05,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE32658,Midbrain floor plate dopamine neurons from human ESCs efficiently engraft in murine and primate models of PD,Homo sapiens,72,2011/11/07,10558,Expression profiling by array,Parkinson's disease AND control AND GPL10558
+GSE57475,Association between alpha-synuclein blood transcripts and early Parkinson's disease,Homo sapiens,142,2015/06/01,6947,Expression profiling by array,Parkinson's disease AND control AND GPL6947
+GSE33434,The transcription factor nurr1 exerts concentration-dependent effects on target genes mediating distinct biological processes,Homo sapiens,9,2012/01/01,6947,Expression profiling by array,Parkinson's disease AND control AND GPL6947
+GSE20186,Systematic meta-analysis and replication of genome-wide expression studies of Parkinson's disease,Homo sapiens,69,2011/02/03,96;6947,Expression profiling by array,Parkinson's disease AND control AND GPL6947
+GSE20159,Systematic meta-analysis and replication of genome-wide expression studies of Parkinson's disease: 1,Homo sapiens,33,2011/01/20,6947,Expression profiling by array,Parkinson's disease AND control AND GPL6947
+GSE25580,Examination of impact of pathogenic mutations in LRRK2 upon gene expression in patient fibroblasts and HEK cells,Homo sapiens,56,2010/12/03,6104;6947,Expression profiling by array,Parkinson's disease AND control AND GPL6947
+GSM1192718,Braak α-synuclein stages 5-6 BR56_8SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192717,Braak α-synuclein stages 5-6 BR56_7SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192716,Braak α-synuclein stages 5-6 BR56_6SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192715,Braak α-synuclein stages 5-6 BR56_5SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192714,Braak α-synuclein stages 5-6 BR56_4SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192713,Braak α-synuclein stages 5-6 BR56_3SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192712,Braak α-synuclein stages 5-6 BR56_2SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192711,Braak α-synuclein stages 5-6 BR56_1SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192710,Braak α-synuclein 3-4 BR34_7SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192709,Braak α-synuclein 3-4 BR34_6SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192708,Braak α-synuclein 3-4 BR34_5SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192707,Braak α-synuclein 3-4 BR34_4SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192706,Braak α-synuclein 3-4 BR34_3SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192705,Braak α-synuclein 3-4 BR34_2SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM1192704,Braak α-synuclein 3-4 BR34_1SN,Homo sapiens,0,2015/05/12,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503967,PD-5476-SNc,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503966,PD-5138-SNc,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503965,PD-3803p-SNc,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503964,PD-3790p-SNc,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503963,PD-3769p-SNc,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503962,PD-2525-SNc,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503961,PD-2515p-SNc,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503960,PD-1647-SNc,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503959,PD-1401-SNc,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM503958,PD-1364-SNc,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM176457,Substantia Nigra Reticulata 3 Disease,Homo sapiens,0,2007/04/09,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM176406,Substantia Nigra Reticulata 2 Disease,Homo sapiens,0,2007/04/09,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSM176405,Substantia Nigra Pars Compacta 3 Disease,Homo sapiens,0,2007/04/09,570,,Parkinson's disease AND substantia nigra AND GPL570
+GSE7179,Comparison of gene expression data between wild-type and DM1-affected undifferentiated hES cells.,Homo sapiens,9,2010/02/24,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE7178,Comparison of gene expression data between wild-type and DM1-affected Neural Precursors Cells (NPC),Homo sapiens,9,2010/02/24,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE7177,Comparison of gene expression data between wild-type and DM1-affected Mesodermal Precursors Cells (MPC),Homo sapiens,9,2010/02/24,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSE14711,Parkinson’s disease patient-derived induced pluripotent stem cells free of viral reprogramming factors,Homo sapiens,11,2009/03/06,570,Expression profiling by array,Parkinson's disease AND blood AND GPL570
+GSM505623,ND 06449 Pm,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505617,ND 04424 Pm,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505607,ND 04158 Pf,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505606,ND 03432 Pf,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505314,ND 02852 Pm,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505313,ND 02579 Pm,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505312,ND 01737 Pf,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM505308,ND 01173 Pf,Homo sapiens,0,2010/02/04,570,,Parkinson's disease AND blood AND GPL570
+GSM367258,iPS PDB 2lox-17,Homo sapiens,0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367245,iPS PDB 2lox-21,Homo sapiens,0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367244,iPS PDB 2lox-22,Homo sapiens,0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367243,iPS PDB 2lox-5,Homo sapiens,0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367242,iPS PDB 1lox-21Puro-26,Homo sapiens,0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367241,iPS PDB 1lox-21Puro-20,Homo sapiens,0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367240,iPS PDB 1lox-17Puro-10,Homo sapiens,0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GSM367219,iPS PDB 1lox-17Puro-5,Homo sapiens,0,2009/03/06,570,,Parkinson's disease AND blood AND GPL570
+GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,Homo sapiens,105827,2010/06/17,10558,,Parkinson's disease AND blood AND GPL10558
+GSM1318551,RNA pool from PD patients 1-5,Homo sapiens,0,2014/01/31,10558,,Parkinson's disease AND blood AND GPL10558
+GSM1318550,PD patient 4,Homo sapiens,0,2014/01/31,10558,,Parkinson's disease AND blood AND GPL10558
+GSM1318549,PD patient 3,Homo sapiens,0,2014/01/31,10558,,Parkinson's disease AND blood AND GPL10558
+GSM1318548,PD patient 2,Homo sapiens,0,2014/01/31,10558,,Parkinson's disease AND blood AND GPL10558
+GSM1318547,PD patient 1,Homo sapiens,0,2014/01/31,10558,,Parkinson's disease AND blood AND GPL10558
+GSE99253,Human iPSC-derived dopaminergic neurons function in primate Parkinson’s disease models,Homo sapiens,14,2017/08/21,6244,Expression profiling by array,Parkinson's disease AND brain AND GPL6244
+GSE51214,Isolation of human iPSC-derived dopaminergic progenitors by cell sorting,Homo sapiens,20,2014/03/07,6244,Expression profiling by array,Parkinson's disease AND brain AND GPL6244
+GSE29774,Generation of isogenic pluripotent stem cells differing exclusively at two early onset Parkinson point mutations,Homo sapiens,18,2011/07/26,6801;13695,Genome variation profiling by SNP array; Expression profiling by array,SNCA AND Parkinson AND GPL570
