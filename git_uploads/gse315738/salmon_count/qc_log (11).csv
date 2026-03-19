@@ -1,0 +1,2 @@
+srr,timestamp,raw_read_pairs,trim_surviving_pairs,trim_retained_pct,fastqc_raw_R1,fastqc_raw_R2,fastqc_trimmed_R1,fastqc_trimmed_R2,salmon_mapping_rate_pct,salmon_num_transcripts,salmon_num_processed,salmon_num_mapped,trim_verdict,salmon_verdict,overall_verdict
+SRR36692430,2026-03-19T14:34:24.694824,34397378,33267582,96.72,FAIL,FAIL,FAIL,FAIL,93.2,194142,33267582,31004600,PASS,PASS,PASS
