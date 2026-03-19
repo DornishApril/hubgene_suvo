@@ -1,0 +1,41 @@
+The Dataset
+You're working with microarray gene expression data. Here's what that means concretely:
+Imagine you take a tissue sample from a sick patient and a healthy patient. You grind it up and run it through a microarray chip — a glass slide covered in thousands of tiny spots, each spot designed to light up if a specific gene is "active" (being transcribed) in that sample. The result is a giant spreadsheet where every row is a probe (a spot on the chip, targeting a specific gene) and every column is a patient sample. The values are fluorescence intensities — how brightly each spot lit up.
+Your datasets are GSE33630 and GSE35570, both from NCBI GEO — a public archive where researchers deposit this kind of data after publishing. Each dataset has two files:
+
+GSE*_series_matrix.txt.gz — the raw chip readout. Rows = probes (~20,000–50,000 of them), columns = samples (maybe 20–80 patients). Values are raw fluorescence intensities.
+GSE*.top.table.tsv — a summary table produced by GEO2R, NCBI's web tool that runs statistical analysis on the raw data. Each row is a probe/gene, with columns like logFC, p-value, adjusted p-value. This file tells you which genes changed significantly between disease and control groups.
+
+
+Step-by-Step Intuition
+Path B — 1.3: DEG Filtering
+What's a DEG? A Differentially Expressed Gene — a gene that's significantly more or less active in disease samples versus healthy controls.
+GEO2R already did the hard statistical work and handed you a ranked list of candidates. Your pipeline filters this list down to the genes that are actually worth caring about, using three criteria:
+adj.P.Val ≤ 0.05 — the p-value tells you "how likely is this difference due to random chance?" An adjusted p-value ≤ 0.05 means there's less than a 5% chance this gene's difference is noise. The "adjusted" part is critical — when you test 20,000 genes simultaneously, by pure chance ~1,000 of them will look significant at p < 0.05 even if nothing is real. The Benjamini-Hochberg adjustment corrects for this "multiple testing problem" by controlling the false discovery rate. Without it, your gene list would be full of false positives.
+|logFC| ≥ 1 — logFC (log2 fold-change) measures how much a gene's expression changed. logFC = 1 means the gene is 2× more active in disease vs. control (since 2¹ = 2). logFC = -1 means half as active. This filter removes genes that are statistically significant but biologically trivial — a gene that's only 1.1× different might be real, but it's probably not driving disease. You're keeping only genes with at least a 2-fold change.
+Deduplication by lowest adj.P.Val — one gene can have multiple probes on the chip (different spots targeting different parts of the same gene). You keep only the most statistically confident probe per gene symbol, so each gene appears once.
+After this step you have totalDEG.csv — maybe a few hundred to a couple thousand genes that are both statistically and biologically meaningfully different between disease and healthy tissue.
+
+Path A — 1.4: Log2 Quantile Normalization
+This path deals with a fundamental problem: raw fluorescence intensities are not directly comparable between samples.
+Why? Because microarray experiments are messy. The amount of starting material differs between samples. Some chips get slightly more dye. Lab conditions vary day to day. If sample A has globally brighter signals than sample B, you can't tell if that's because sample A's patient has higher gene expression overall, or just because sample A got more dye.
+Step 1 — Log2 transformation. Raw intensities span a huge range (say, 10 to 100,000). Biologically, what matters is ratios — is this gene 2× higher or 10× higher? Ratios are multiplicative, but statistics prefer additive relationships. Taking log2 converts multiplicative ratios to additive differences: a gene that's 2× higher becomes +1 in log space, 4× higher becomes +2, 8× higher becomes +3. This compresses the scale and makes the data behave better for downstream analysis. The 1e-5 offset handles the rare case of a zero intensity (you can't take log of zero).
+Step 2 — Quantile normalization. This is the key step. The idea: if you believe that most genes shouldn't change between samples (only a few hundred out of ~20,000 are truly differentially expressed), then the overall distribution of expression values should look roughly the same across all samples. Quantile normalization enforces this — it mathematically forces every sample to have an identical distribution.
+Concretely: rank every probe within each sample. Then replace each value with the average value of that rank across all samples. The result: every sample now has exactly the same statistical distribution. Sample-to-sample differences in total brightness are gone. Only relative differences within a sample (which gene is higher than which other gene) are preserved.
+After this step you have a clean, comparable expression matrix ready for machine learning.
+
+1.5: Merge — Paths A and B Converge
+Now you have two things:
+
+Path B result: a list of ~hundreds of gene symbols that are meaningfully different between disease and control
+Path A result: a clean normalized expression matrix with ~20,000+ probes × all samples
+
+The merge answers: "For the genes we know are differentially expressed, what are their actual normalized expression values across every patient sample?"
+You join on probe ID — the DEG table has an ID column (probe identifier), the expression matrix has ID_REF. The inner join keeps only probes present in both — effectively filtering the 20,000-probe expression matrix down to just the few hundred DEG probes. Statistical columns (logFC, p-value, etc.) are dropped because they're summary statistics about the group difference, not per-sample values — and the SVM needs per-sample values.
+The result is a focused matrix: rows = the DEG probes, columns = patient samples, values = normalized expression intensities.
+
+1.6: Transposing
+The merged matrix has rows = genes, columns = samples. But every machine learning algorithm expects the opposite: rows = samples (observations), columns = features (variables). Each patient is one data point, and each gene's expression level in that patient is one feature describing that data point.
+Transposing simply flips the matrix. What was a column (GSM123456, a patient sample) becomes a row. What was a row (a gene) becomes a column. After this, each row is one patient, with hundreds of gene expression values as features — exactly the format the SVM needs to learn what pattern of gene expression distinguishes disease from healthy tissue.
+
+

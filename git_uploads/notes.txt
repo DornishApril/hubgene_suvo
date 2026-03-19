@@ -1,0 +1,35 @@
+
+
+
+
+"Gene-level counts were independently validated using Salmon with upstream FastQC quality control and Trimmomatic adapter trimming. Despite fundamental methodological differences between the two approaches, Pearson correlation on log-transformed counts was r = 0.9597, confirming that the STAR/featureCounts count matrix accurately captures the underlying transcriptional signal and is robust to quantification methodology."
+
+https://www.sciencedirect.com/science/article/pii/S089106182100017X
+GSE110298 - geo2R unpublished
+
+
+Cross validation dataset
+GSE49036 — substantia nigra PD vs control
+GSE68719 — PD brain RNA-seq, well-cited
+GSE57475 — dopaminergic neurons
+
+progression:
+GSE189877
+GSE189878
+
+Found 46 files. Starting the merge...
+------------------------------
+Merge Complete!
+Final Matrix Shape: 62710 genes x 46 samples
+File saved as: master_count_matrix.csv
+
+
+
+Source: Ensembl FTP (not GENCODE)
+Assembly: GRCh38 (also called hg38) — the current standard human genome assembly, first released December 2013 by the Genome Reference Consortium
+Release: 109 — published early 2023
+Assembly patch: GRCh38.p13 — this is important because release 110 moved from GRCh38.p13 to GRCh38.p14, which unmasked the pseudo-autosomal region causing ambiguous mappings 10x Genomics — so release 109 is actually the last "safe" release before that change, which is why it's widely used
+Annotation type: A joint gene set based on a merge between Ensembl's automatic annotation pipeline and the manually curated annotation from Havana Ensembl — so it's not purely automated, it has manual curation baked in
+What's in it: Gene coordinates, transcript structures, exon boundaries, and the ENST→ENSG mappings you're using
+
+In short — it's the 2023 human gene annotation, frozen at a stable and widely trusted release, which is exactly what you want for reproducible RNA-seq analysis.
